@@ -1,0 +1,14 @@
+---
+title: "Gibbons"
+author: "Caroline Rowley"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+gibdat <- read.csv("./GibbonData.csv")
+
+testing
+```
+
+
